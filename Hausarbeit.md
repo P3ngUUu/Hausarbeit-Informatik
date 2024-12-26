@@ -1,6 +1,6 @@
 # Geschichte der Informatik
 
-## EInleitugn 
+## EInleitung 
 
 ## Die ersten Computer bis 1945
 
